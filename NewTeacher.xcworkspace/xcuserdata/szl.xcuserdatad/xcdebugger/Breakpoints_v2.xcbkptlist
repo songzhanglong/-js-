@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewTeacher/Utils/DJTHttpClient.m"
+            timestampString = "506489445.777394"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "+asynchronousNormalRequest:parameters:successBlcok:failedBlock:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewTeacher/Controls/Main/Grow/MakeGrowController.m"
+            timestampString = "506489484.711265"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1472"
+            endingLineNumber = "1472"
+            landmarkName = "-commitLastInfo"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MakeGrowController commitLastInfo]"
+                  moduleName = "NewTeacher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/szl/Desktop/%E7%AB%A5%E5%8D%B0%E5%B9%B3%E5%8F%B0/%E5%85%AC%E5%8F%B8%E6%95%99%E5%B8%88%E7%89%88/NewTeacher/Controls/Main/Grow/MakeGrowController.m"
+                  timestampString = "506489485.046308"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1472"
+                  endingLineNumber = "1472"
+                  offsetFromSymbolStart = "14388">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__36-[MakeGrowController commitLastInfo]_block_invoke"
+                  moduleName = "NewTeacher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/szl/Desktop/%E7%AB%A5%E5%8D%B0%E5%B9%B3%E5%8F%B0/%E5%85%AC%E5%8F%B8%E6%95%99%E5%B8%88%E7%89%88/NewTeacher/Controls/Main/Grow/MakeGrowController.m"
+                  timestampString = "506489485.049151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1473"
+                  endingLineNumber = "1473"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
